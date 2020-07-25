@@ -2,6 +2,6 @@
 All Hands-on sessions of Data Science(coding blocks).
 
 
-Session 1(Python Basics-1)
+1.Session 1(Python Basics-1)
 
-Session 2 (In Process)
+2.Session 2 (In Process)(Python Basics-2)
