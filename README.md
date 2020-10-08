@@ -10,10 +10,12 @@ i)Python Basics-2
 
 ii)Continued from strings
 
-3. Session 3
+3.Session 3
 
 i)OOPS
 
 ii)DSA (To be modified)
 
 iii)Modules and Exception Handlings (To be Modified)
+
+P.S : The first three to four sessions will mainly focus on Python and it's applications.
